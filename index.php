@@ -1,11 +1,11 @@
 <html>
 
 <head>
-    <title>Test!sshvar/repo/site.git</title>
+    <title>Test!</title>
 </head>
 
 <body>
-    <h1>Test!</h1>
+    <h1>This is personal.benclist.com!</h1>
 </body>
 
 </html>
